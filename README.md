@@ -1,12 +1,9 @@
 # OperacionesBasicas
 Operaciones Básicas suma, resta, multiplicación, divicion.
 
-/**
- *
- * @author omargc
- */
 
-
+>author omargc
+ 
 public class Operaciones {
     
     //Variables glo
