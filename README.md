@@ -1,20 +1,24 @@
 # Clase Operaciones:
 Funciones basicas de suma, resta, multiplicacion, divicion. 
  
-Uso: 
+>Uso: 
 
-1.Se crea el objeto:
+>1.Se crea el objeto:  
 >Operaciones objeto = new Operaciones(); 
 
-2.Llamada a las funciones:
+>2.Llamada a las funciones:
 >objeto.resta(n1, n2);  
 >objeto.suma(n1, n2);  
 >objeto.mul(n1, n2);  
 >objeto.div(n1, n2);  
 
 
+Clase: Operaciones.java  
 
 
+
+    public class Operaciones{
+    
     /*
      *
      *Autor: OmarGC.
@@ -133,6 +137,8 @@ Uso:
      */
     public String toString() {
        return r + "";
+    }
+    
     }
     
     
