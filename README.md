@@ -1,13 +1,15 @@
 # OperacionesBasicas
-Operaciones Básicas suma, resta, multiplicación, divicion.
- 
-public class Operaciones {
+
+clase Operaciones:
+
+
+    /*Autor: OmarGC*/
     
     //Variables glo
     private double n1;
     private double n2;
     private double r;
-
+    
     
     
     /**
@@ -122,4 +124,3 @@ public class Operaciones {
     
     
     
-}
