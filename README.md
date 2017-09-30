@@ -1,11 +1,26 @@
-# Clase Operaciones Basicas:
+# Clase Operaciones:
+Funciones basicas de suma, resta, multiplicacion, divicion. 
+ 
+Uso: 
+
+1.Se crea el objeto:
+>Operaciones objeto = new Operaciones(); 
+
+2.Llamada a las funciones:
+>objeto.resta(n1, n2);  
+>objeto.suma(n1, n2);  
+>objeto.mul(n1, n2);  
+>objeto.div(n1, n2);  
 
 
 
 
-    /*Autor: OmarGC*/
+    /*
+     *
+     *Autor: OmarGC.
+     */
     
-    //Variables glo
+    //Variables globales:
     private double n1;
     private double n2;
     private double r;
