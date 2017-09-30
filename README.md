@@ -1,7 +1,5 @@
 # OperacionesBasicas
-Operaciones Básicas suma, resta, multiplicación, divicion.
-
-
+>Operaciones Básicas suma, resta, multiplicación, divicion.
 >author omargc
  
 public class Operaciones {
