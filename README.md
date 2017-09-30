@@ -13,7 +13,7 @@ Funciones basicas de suma, resta, multiplicacion, divicion.
 >objeto.div(n1, n2);  
 
 
-Clase: Operaciones.java  
+Class_:
 
 
 
