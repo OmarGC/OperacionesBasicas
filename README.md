@@ -1,6 +1,6 @@
-# OperacionesBasicas
+# Clase Operaciones Basicas:
 
-clase Operaciones:
+
 
 
     /*Autor: OmarGC*/
